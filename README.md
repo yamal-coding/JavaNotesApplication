@@ -1,2 +1,5 @@
+Java Notes Application
+=====================
+
 This is a Java desktop application to manage personal notes.
-The functionality is simple, yo can create a note, yo can edit it and you can also delete it.
+The functionality is simple, you can create a note, edit it and also delete it.
